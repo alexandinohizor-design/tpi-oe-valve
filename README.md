@@ -1,8 +1,8 @@
-# Trabajo Práctico Integrador — Organización Empresarial (UTN FRP)
+# Trabajo Práctico Integrador — Organización Empresarial
 
 **Proyecto:** Sistema de Búsqueda e Indexación de Metadatos de Activos Digitales en el Ecosistema Steam  
 **Organización Analizada:** Valve Corporation  
-**Carrera:** Tecnicatura Universitaria en Programación (TUP) — Universidad Tecnológica Nacional (Facultad Regional Paraná)  
+**Carrera:** Tecnicatura Universitaria en Programación (TUP) — Universidad Tecnológica Nacional
 **Autor:** Alex Andino  
 **Año Lectivo:** 2026  
 
