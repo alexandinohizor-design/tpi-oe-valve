@@ -6,7 +6,7 @@
 **Autor:** Alex Andino  
 **Año Lectivo:** 2026  
 
----
+--
 
 ## Alcance Integral del Proyecto
 Este repositorio documenta de manera integrada el desarrollo del Trabajo Práctico Integrador de **Organización Empresarial**, articulando el análisis administrativo con el diseño de sistemas de información:
