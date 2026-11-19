@@ -1,6 +1,8 @@
 # 4. Modelado de Procesos (BPMN 2.0) y Casos de Uso
 
 ## Arquitectura del Proceso (`bpmn-busqueda-compra-steam.png`)
+![Diagrama BPMN 2.0 - Búsqueda y Compra en Steam](./B.png)
+
 El diagrama BPMN 2.0 modela de extremo a extremo la búsqueda avanzada por metadatos (*Float Value*, *Pattern ID*) y el flujo transaccional de compra en el Mercado de la Comunidad de Steam:
 * **Separación de Pools y Mensajes:** Se diferencian `Usuario Comprador (Cliente Externo)` y `Valve Corporation / Ecosistema Steam`, vinculados exclusivamente mediante **Flujos de Mensaje** discontinuos.
 * **Subproceso 1 (Búsqueda e Indexación):** Consulta rápida en caché **Redis** y actualización en segundo plano mediante parseo de estructuras **Protobuf/VDF** desde los Servidores de Inventario.
